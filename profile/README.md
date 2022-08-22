@@ -4,14 +4,14 @@
 **Overall Aim of this GitHub:**
 Synthesise the technical knowledge generated in HoloFood to ease the implementation of hologenomic approaches in animal production.
 
-HoloFood is a *hologenomic* approach that will improve the efficiency of food production systems by understanding the biomolecular and physiological processes affected by incorporating feed additives and novel sustainable feeds in farmed animals. 
+HoloFood is a *hologenomic* approach that will improve the efficiency of food production systems by understanding the biomolecular and physiological processes affected by incorporating feed additives and novel sustainable feeds in farmed animals.
 
 The HoloFood consortium will showcase the potential of an innovative solution that holds enormous potential for optimising modern food production. Specifically, HoloFood is a framework that integrates a suite of recent analytical and technological developments, that is applicable to any major animal food production system, spanning the full production line.
 
 Thus it is as relevant for the farmers producing livestock, as it is to the associate industries such as those producing the feed and feed additives upon which the animal’s growth, quality, health and wellbeing depends.
 
 <div align="center">
-  <a href="https://youtu.be/NSQLffZj-AY"><img src="https://youtu.be/NSQLffZj-AY/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://youtu.be/NSQLffZj-AY"><img src="https://youtu.be/NSQLffZj-AY?t=6" alt="HoloFood: A novel hologenomic approach to sustainable food production"></a>
 </div>
 
 ## Our methological point of view
