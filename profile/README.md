@@ -12,8 +12,10 @@ The HoloFood consortium will showcase the potential of an innovative solution th
 Thus it is as relevant for the farmers producing livestock, as it is to the associate industries such as those producing the feed and feed additives upon which the animal’s growth, quality, health and wellbeing depends.
 
 <p align="center">
+
 **For a short introduction please see youtube video below**
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NSQLffZj-AY/0.jpg)](https://www.youtube.com/embed/NSQLffZj-AY "HoloFood: A novel hologenomic approach to sustainable food production")
+
 </p>
 
 
