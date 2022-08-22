@@ -11,13 +11,8 @@ The HoloFood consortium will showcase the potential of an innovative solution th
 
 Thus it is as relevant for the farmers producing livestock, as it is to the associate industries such as those producing the feed and feed additives upon which the animal’s growth, quality, health and wellbeing depends.
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/v/NSQLffZj-AY" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/v/NSQLffZj-AY"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+
+![HoloFood Introduction Youtube](https://www.holofood.eu/files/A3_HOLOFOOD_poster.png)(https://www.youtube.com/watch?v=NSQLffZj-AY)
 
 ## Our methological point of view
 
