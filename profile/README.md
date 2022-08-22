@@ -1,5 +1,5 @@
+![HF Logo](https://www.holofood.eu/files/logo_only.png)
 # Overview of protocols and pipelines related to HoloFood
-![alt text](https://www.holofood.eu/files/logo_only.png)
 
 ## Introduction - what is HoloFood?
 **Overall Aim of this GitHub:**
@@ -11,15 +11,7 @@ The HoloFood consortium will showcase the potential of an innovative solution th
 
 Thus it is as relevant for the farmers producing livestock, as it is to the associate industries such as those producing the feed and feed additives upon which the animal’s growth, quality, health and wellbeing depends.
 
-
-<object width="425" height="350">
-  <param name="movie" value="https://youtu.be/NSQLffZj-AY" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/NSQLffZj-AY"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
+![HoloFood Introduction Youtube](https://youtu.be/NSQLffZj-AY)
 
 ## Our methological point of view
 
