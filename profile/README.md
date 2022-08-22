@@ -1,5 +1,6 @@
 # Overview of protocols and pipelines related to HoloFood
 ![alt text](https://www.holofood.eu/files/logo_only.png)
+
 ## Introduction - what is HoloFood?
 **Overall Aim of this GitHub:**
 Synthesise the technical knowledge generated in HoloFood to ease the implementation of hologenomic approaches in animal production.
@@ -10,6 +11,7 @@ The HoloFood consortium will showcase the potential of an innovative solution th
 
 Thus it is as relevant for the farmers producing livestock, as it is to the associate industries such as those producing the feed and feed additives upon which the animal’s growth, quality, health and wellbeing depends.
 
+
 <object width="425" height="350">
   <param name="movie" value="https://youtu.be/NSQLffZj-AY" />
   <param name="wmode" value="transparent" />
@@ -17,7 +19,10 @@ Thus it is as relevant for the farmers producing livestock, as it is to the asso
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
+
+
 ## Our methological point of view
+
 With the planet’s population rapidly increasing, one of the key global challenges of this century is to secure that the growing food production is performed in a sustainable fashion and with a low-carbon signature. Hence, optimising food production is thus not only of commercial interest for companies, but also of critical importance for humanity.
 
  In the last decades, and in particular since the 2006 ban of using antibiotics to promote animal growth in the European Union, different strategies are being developed to modulate gut microbiomes aiming to improve food production, such as functional feed components or feed additives.Feed additives have been proven effective at modulating microbiomes in many animal systems, although their efficiency often exhibits large variation. The likely reason underlying such inconsistency, is the very limited knowledge we have about the specific means of action of the additives.
