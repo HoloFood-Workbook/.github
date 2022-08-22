@@ -13,6 +13,9 @@ Thus it is as relevant for the farmers producing livestock, as it is to the asso
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSQLffZj-AY" title="HoloFood: A novel hologenomic approach to sustainable food production" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NSQLffZj-AY/0.jpg)](https://www.youtube.com/embed/NSQLffZj-AY "HoloFood: A novel hologenomic approach to sustainable food production")
+
+
 ## Our methological point of view
 
 With the planet’s population rapidly increasing, one of the key global challenges of this century is to secure that the growing food production is performed in a sustainable fashion and with a low-carbon signature. Hence, optimising food production is thus not only of commercial interest for companies, but also of critical importance for humanity.
